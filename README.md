@@ -1,69 +1,40 @@
 <p>
 <a href="https://hacktoberfest.digitalocean.com/">
-<img width=100% src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg"></a>
+<img width=100% src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" alt="Hacktoberfest 2021 Banner"></a>
 </p>
 
 # [Hacktoberfest](https://faiznurullah.github.io/Hacktoberfest2021/)
 
-# Apa itu Hacktoberfest 2021 ? 
+## What is Hacktoberfest 2021?
 
-Hacktoberfest adalah cara termudah untuk masuk ke proyek open source! Hacktoberfest adalah festival kode open source selama sebulan yang dipersembahkan oleh [Digital Ocean](https://www.digitalocean.com/) dan [DEV](https://www.dev.to/) pada tahun 2021.
+Hacktoberfest is the easiest way to start contributing to open source projects! It’s a month-long open-source code festival hosted by [DigitalOcean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) in 2021.
 
-Selama bulan Oktober 2021, yang harus Anda lakukan adalah berkontribusi pada proyek open source dan membuat setidaknya 4 pull requests. Ya, proyek apa pun dan kontribusi apa pun. Ini bisa berupa perbaikan bug, peningkatan, atau bahkan perubahan dokumentasi! Dan menangkan T-Shirt dan stiker keren.
+Throughout October 2021, all you have to do is contribute to any open source project by making at least 4 pull requests. Yes — any project and any kind of contribution counts. This could be fixing bugs, adding features, or even improving documentation! And you get a cool T-shirt and stickers as a reward.
 
-Jika Anda belum pernah berkontribusi ke open source sebelumnya, ini adalah waktu yang tepat untuk memulai karena Hacktoberfest menyediakan banyak peluang kontribusi yang tersedia (dan ya, selalu ada banyak untuk pemula juga).
-
-  ---
-  
-  # Bagaimana Cara Mendaftar Event Hacktoberfest?
-  - Buka Link Website [hacktoberfest.digitalocean.com](hacktoberfest.digitalocean.com/)
-  - Klik Start Hacking
-  - Klik Signup With Github
-  - Centang Informasi Dengan Informasi Dirimu
-  - Mulai Lah Berkontribusi...  
-  
-    ---
-  
-# Bagaimana Cara Berkontribusi Di Repository Ini?
-- Buka Folder 'contribution' di repository 
-- Edit File contributors.md
-- Lalu Silahkan Isi Data Kalian
-- Tinggal Pull Request
-- Good Luck
- 
-  ---
-  
-# Contoh:
-``` markdown
-| Nama | [Nama Akun Github](Link Github) |
-```
+If you’ve never contributed to open source before, this is the perfect time to start. Hacktoberfest provides many beginner-friendly opportunities to contribute (yes, even if you’re new!).
 
 ---
-# Kontributor List
-<a href="https://github.com/faiznurullah/hacktoberfest2021/graphs/contributors">
-  <img src="https://contrib.rocks/image?max=1000&repo=faiznurullah/hacktoberfest2021" />
-</a>
-  
-  ---
-  
-   # Embed Repository
 
- ![https://github.com/Faiznurullah/Hacktoberfest2021](https://github-readme-stats.vercel.app/api/pin?username=Faiznurullah&repo=Hacktoberfest2021&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)
-  
-  
- 
-   ---
-   
- # Good Luck 
- 
-  Semoga Beruntung Untuk Kamu Yang Sedang Berjuang Untuk Berkontribusi Dalam Event Hacktoberfest 2021, Tetap Semangat Dalam Berkontribusi Demi  Mensukseskan Acara Yang Mendorong Kita Untuk Belajar Open Source
-  
- 
+## How to Register for Hacktoberfest?
+
+- Go to [hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
+- Click **Start Hacking**
+- Click **Sign up with GitHub**
+- Fill out your personal details
+- Start contributing!
+
 ---
-    
-  # Repository Hacktoberfest 2021
-  - [https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021)
-  - [https://github.com/wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021)
-  - [https://github.com/wibucode02/tempat-kontributor ](https://github.com/wibucode02/tempat-kontributor)
-  
-   ---
+
+## How to Contribute to This Repository?
+
+- Open the `contribution` folder in this repository  
+- Edit the `contributors.md` file  
+- Add your own details  
+- Submit a Pull Request  
+- Good luck!
+
+---
+
+## Example:
+```markdown
+| Name | [GitHub Username](GitHub Profile URL) |
